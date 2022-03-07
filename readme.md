@@ -9,10 +9,12 @@
 - [Angular](https://angular.io/)
 - [React](https://reactjs.org/)
 - [Vue.js](https://vuejs.org/)
+- [Seemple.js](https://seemple.js.org/)
 
 ## Ready to use solutions
 
 - [Swiper](https://swiperjs.com/)
+- [Animate.css](https://animate.style/)
 
 ## Gulp packages
 
@@ -23,3 +25,8 @@
 - [gulp-libsquoosh](https://www.npmjs.com/package/gulp-libsquoosh)
 - [gulp-webp](https://www.npmjs.com/package/gulp-webp)
 - [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)
+
+## Code checkers
+
+- [HTML-tree Generator](https://yoksel.github.io/html-tree/)
+- [Markup Validation Service](https://validator.w3.org/)
