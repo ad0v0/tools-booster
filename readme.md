@@ -30,3 +30,7 @@
 
 - [HTML-tree Generator](https://yoksel.github.io/html-tree/)
 - [Markup Validation Service](https://validator.w3.org/)
+
+## Random
+
+- [Lorem.Space](https://lorem.space/) — Image placeholders
