@@ -15,6 +15,7 @@
 
 - [Swiper](https://swiperjs.com/)
 - [Animate.css](https://animate.style/)
+- [Css layout](https://csslayout.io/)
 
 ## Gulp packages
 
